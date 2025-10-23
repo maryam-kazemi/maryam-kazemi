@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I’m a member of the Turing team(Pixel group). I’m all about turning creative ideas into functional solutions and enjoy the journey of learning and growing in the tech world.
+Hey there! I’m a member of the Turing team. I’m all about turning creative ideas into functional solutions and enjoy the journey of learning and growing in the tech world.
 
 
 ## 🌐 Socials:
